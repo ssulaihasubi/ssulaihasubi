@@ -10,7 +10,7 @@ Cheers! ☕
 <h2 align="center">👩🏻‍🔬 I'm a Data Scientist</h2>
 <!-- <h2 align="center">👩🏻‍💻 My GitHub Stats Visualization</h2> -->
 
-<a align="center" href="https://github.com/sulaihasubi/github-stats">
+<a align="center" href="https://github.com/ssulaihasubi/github-stats">
   
 ![](https://github.com/ssulaihasubi/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/ssulaihasubi/github-stats/blob/master/generated/languages.svg)
