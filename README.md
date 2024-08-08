@@ -12,7 +12,7 @@ Cheers! ☕
 
 <a align="center" href="https://github.com/sulaihasubi/github-stats">
   
-![](https://github.com/ssulaihasubi/sulaihasubi/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/ssulaihasubi/sulaihasubi/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/ssulaihasubi/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/ssulaihasubi/github-stats/blob/master/generated/languages.svg)
   
 </a>
